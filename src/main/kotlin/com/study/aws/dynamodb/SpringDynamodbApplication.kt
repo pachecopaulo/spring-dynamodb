@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class SpringDynamodbApplication
 
 fun main(args: Array<String>) {
-	runApplication<SpringDynamodbApplication>(*args)
+    runApplication<SpringDynamodbApplication>(*args)
 }
