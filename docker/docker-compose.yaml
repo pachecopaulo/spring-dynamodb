@@ -16,6 +16,7 @@ services:
     environment:
       - AWS_ACCESS_KEY_ID=
       - AWS_SECRET_KEY=
+      - AWS_DYNAMO_DB_ENDPOINT=http://localhost:8000
     ports:
       - "8081:8080"
     volumes:
