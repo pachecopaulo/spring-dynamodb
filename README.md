@@ -1,1 +1,1 @@
-# Sample project using DynamoDB
+
